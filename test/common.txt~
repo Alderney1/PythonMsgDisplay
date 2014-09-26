@@ -1,0 +1,38 @@
+#-----------------------------------------------------------------------------------------------------------------------------------------
+#Administration Details
+#-----------------------------------------------------------------------------------------------------------------------------------------
+author : Mats Larsen
+copyright : Mats Larsen 2014
+credits : [Mats Larsen]
+license : GPLv3
+maintainer : "Mats Larsen"
+email : "larsen.mats.87@gmail.com"
+status : "Development"
+description : This file contains the messages, that are intended to used in projects, maybe several or just a single project. The messages can be seen in section 'Messages'.
+file : debugging_module.py
+dependencies : ["DisplayMsg"]
+#-----------------------------------------------------------------------------------------------------------------------------------------
+#Version
+#-----------------------------------------------------------------------------------------------------------------------------------------
+version_stage : Pre_alpha
+version_name : displaymsg
+version_number : 0.1
+version_date : 20140917
+version_risk : This current version is in Pre-alpha version, which meaning that the program can crash or perform other unrespected behavoiurs.
+version_modification : The development project has just been created."
+version_next_update : Test of GPIO
+#-----------------------------------------------------------------------------------------------------------------------------------------
+#Messages
+#-----------------------------------------------------------------------------------------------------------------------------------------
+0 : The given mode was equal to the already operation mode.
+1 :All diodes are not blocked. Meaning that the tube is free of plastic.
+2 :The given operational mode is undefined acoording to the listed implemented methods. Please check the mode name and the desired implemented method for consistensis. The application will be shutted down now!!
+3 :is initilized and ready to be used!
+4 :A detection event is succesfull added.
+5 : ErrorTyping : The arguments of the name is not a String, Please change it to a String!!
+6 : Name Typing Error.
+7 : Type Typing Error.
+8 : ErrorTyping. The arguments of the type is defined, Please change it to a defined type!!
+9 : ErrorTyping. The arguments of the log_level is undefined, Please change it to a integer!!
+10 : Argument is not prensent in the method"
+11 : Forfill the non present argument in the method"
